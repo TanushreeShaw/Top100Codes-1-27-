@@ -1,3 +1,4 @@
+//Sum of First N Natural numbers.
 import java.util.*;
 public class SumOfNaturalNumbers3 
 {
