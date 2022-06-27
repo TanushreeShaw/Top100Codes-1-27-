@@ -1,3 +1,4 @@
+//Even or Odd number.
 import java.util.*;
 
 public class EvenOdd2
