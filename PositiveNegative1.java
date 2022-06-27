@@ -1,3 +1,4 @@
+//Positive or Negative number.
 import java.util.*;
 public class PositiveNegative1
 {
