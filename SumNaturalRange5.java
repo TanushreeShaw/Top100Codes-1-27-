@@ -1,3 +1,4 @@
+//Sum of numbers in a given range.
 import java.util.*;
 public class SumNaturalRange5
 {
