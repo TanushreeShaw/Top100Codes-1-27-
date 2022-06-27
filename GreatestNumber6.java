@@ -1,3 +1,4 @@
+//Greatest of two numbers.
 import java.util.*;
 public class GreatestNumber6
 {
