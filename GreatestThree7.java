@@ -1,3 +1,4 @@
+//Greatest of the Three numbers.
 import java.util.*; 
 public class GreatestThree7
 {
