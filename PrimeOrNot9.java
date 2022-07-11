@@ -1,3 +1,4 @@
+//Java Program to Check Whether a Number is Prime or Not
 import java.util.Scanner;
 
 public class PrimeOrNot9
