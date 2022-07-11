@@ -1,3 +1,4 @@
+//Sum of digits of a number using Java
 import java.util.*;
 public class SumofDigits11
 {
